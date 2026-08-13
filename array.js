@@ -9,7 +9,7 @@ for (let val of marks){
 let avg = sum/marks.length;
 console.log("The average marks is: "+avg);
 */
-let items = [250, 400, 150, 300, 500];
+let items = [250, 400, 150, 300, 500]; //Hello
 let i=0;
 for (let val of items){
     console.log("Item "+i+" is: "+val);
