@@ -2,7 +2,7 @@ let modeBtn=document.querySelector("#mode");
 let body = document.querySelector("body");
 let currMode = "light";
 
-modeBtn.addEventListener("click", () => {
+modeBtn.addEventListener("click", () => {   //light mode to dark mode and vice versa
     if (currMode === "light") {
        currMode ="dark";
        body.classList.add("dark");
