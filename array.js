@@ -19,4 +19,4 @@ for (let val of items){
     i++;
 }
 
-//for ( let i=0; i<items.length; i++){
+//for ( let i=0; i<items.length; i++)
