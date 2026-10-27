@@ -7,4 +7,6 @@ let length = userName.length;
 let genName = `@${removeSpaces}${length}`;
 console.log(genName);
 
+console.log("Hello " + userName + ", your generated username is: " + genName);
+
 console.log(Hello);
